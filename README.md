@@ -1,2 +1,2 @@
-# prepcourse_henry
-Repositorio de introduccion a github
+Cristhian Galvis Ossa
+Primer repositorio copiado desde github a mi escritorio local
